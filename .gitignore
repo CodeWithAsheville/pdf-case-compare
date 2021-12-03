@@ -1,0 +1,4 @@
+build/*
+dist/*
+PisgahPDFComp.spec
+__pycache__/*
