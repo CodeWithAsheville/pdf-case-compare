@@ -1,5 +1,5 @@
 # About pdf-case-compare
-The pdf-case-compare project originated as a request to Code for Asheville, to help a non-profit legal aid organization, which was helping people get their records expunged per North Carolina law.
+The pdf-case-compare project originated as a request to Code for Asheville, to help a non-profit legal aid organization (Pisgah Legal), which was helping people get their records expunged per North Carolina law.
 
 The resulting Python program compares two PDF report files, one generated through the LexisNexis Public Records database, and the other through the North Carolina Criminal and Infraction Public Records Search (CIPRS) database.
 
